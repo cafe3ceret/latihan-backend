@@ -1,0 +1,31 @@
+/* === 🎮 Progress Bar Styling === */
+.progress {
+  background-color: #1f1f2e;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 18px;
+}
+
+.progress-bar {
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.8rem;
+  text-align: center;
+  line-height: 18px;
+}
+
+.progress-animated {
+  animation: glowing 3s ease-in-out infinite;
+}
+
+@keyframes glowing {
+  0% {
+    box-shadow: 0 0 5px #3b82f6, 0 0 10px #9333ea;
+  }
+  50% {
+    box-shadow: 0 0 15px #3b82f6, 0 0 25px #9333ea;
+  }
+  100% {
+    box-shadow: 0 0 5px #3b82f6, 0 0 10px #9333ea;
+  }
+}
