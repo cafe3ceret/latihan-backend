@@ -193,8 +193,8 @@ backend/
 
 ## 👤 Pengembang
 
-**Nama:** Aditya Arief
-**NIM:** 21.11.4401
+**Nama:** Aditya Arief Darmawan
+**NIM:** 2213010450
 **Proyek:** Dashboard Jasa Joki Game
 **Kampus:** STMIK Amikom Surakarta
 
