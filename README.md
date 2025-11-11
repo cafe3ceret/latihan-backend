@@ -51,7 +51,7 @@ Sistem ini berfungsi untuk **mengelola pesanan joki**, mulai dari **autentikasi 
 ## 🧪 Akun Demo (Login)
 > Kamu bisa mencoba aplikasi tanpa mendaftar akun baru menggunakan data berikut:
 ```
-📧 Email:    [cafeceret3@gmail.com](mailto:cafeceret3@gmail.com)
+📧 Email:    [cafeceret3@gmail.com]
 🔑 Password: 123456
 ```
 
@@ -206,12 +206,9 @@ Proyek ini dibuat untuk keperluan akademik dan pengembangan sistem joki.
 Dilarang memperjualbelikan tanpa izin pembuat.
 
 ```
-
----
-
 💡 **Langkah selanjutnya:**
 1. Buka folder proyek kamu → `latihan-frontend`
 2. Buat file baru bernama `README.md`
 3. Tempel semua isi di atas, lalu simpan
+```
 
----
