@@ -1,4 +1,3 @@
-```md
 # 🎮 Dashboard Manajemen Jasa Joki Game Berbasis Web
 
 ## 📘 Deskripsi Proyek
@@ -52,11 +51,9 @@ Sistem ini berfungsi untuk **mengelola pesanan joki**, mulai dari **autentikasi 
 ## 🧪 Akun Demo (Login)
 > Kamu bisa mencoba aplikasi tanpa mendaftar akun baru menggunakan data berikut:
 ```
-
 📧 Email:    [cafeceret3@gmail.com](mailto:cafeceret3@gmail.com)
 🔑 Password: 123456
-
-````
+```
 
 ---
 
